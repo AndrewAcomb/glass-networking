@@ -1,0 +1,17 @@
+methods  fields   package/class name
+17       0        android
+10       0        android.app
+2        0        android.content
+1        0        android.os
+2        0        android.view
+2        0        android.widget
+33       24       com
+6        1        com.google
+6        1        com.google.android
+6        1        com.google.android.glass
+6        1        com.google.android.glass.timeline
+27       23       com.openquartz
+27       23       com.openquartz.voiceexample
+3        0        java
+2        0        java.lang
+1        0        java.util

@@ -1,0 +1,11 @@
+methods  fields   package/class name
+11       0        android
+4        0        android.app
+4        0        android.hardware
+3        0        android.view
+18       20       com
+18       20       com.openquartz
+18       20       com.openquartz.glasspreview
+5        1        com.openquartz.glasspreview.activities
+2        0        java
+2        0        java.lang

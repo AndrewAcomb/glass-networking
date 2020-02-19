@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "22,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "773,1131",
+                        "endLines": "27,35",
+                        "endColumns": "12,12",
+                        "endOffsets": "1125,1452"
+                    },
+                    "to": {
+                        "startLines": "8,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "351,708",
+                        "endLines": "13,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "703,1029"
+                    }
+                },
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "22,25,26,23,27,24",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "773,929,969,824,1021,877",
+                        "endColumns": "50,39,51,52,48,51",
+                        "endOffsets": "819,964,1016,872,1065,924"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,106,146,198,251,299",
+                        "endColumns": "50,39,51,52,47,51",
+                        "endOffsets": "101,141,193,246,294,346"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

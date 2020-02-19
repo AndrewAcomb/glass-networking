@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array_name">
+        <item>text_string1</item>
+        <item>text_string2</item>
+        <item>text_string3</item>
+        <item>text_string4</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">Memo for Glass</string>
+    <string name="close">Close</string>
+    <string name="delete_memo">Delete memo</string>
+    <string name="hello_world">Your memos</string>
+    <string name="memo">memo</string>
+    <string name="read_aloud">Read aloud</string>
+    <string name="shared_memo_key">memo</string>
+    <string name="view_memos">View memos</string>
+    <style name="MenuTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+    <style name="TextMemoListStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">10dp</item>
+    </style>
+    <style name="TextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+methods  fields   package/class name
+11       0        android
+7        0        android.app
+1        0        android.content
+2        0        android.view
+1        0        android.widget
+32       23       com
+7        1        com.google
+7        1        com.google.android
+7        1        com.google.android.glass
+7        1        com.google.android.glass.timeline
+25       22       com.openquartz
+25       22       com.openquartz.helloglass
+9        0        com.openquartz.helloglass.activities
+5        2        com.openquartz.helloglass.services
+2        0        java
+2        0        java.lang

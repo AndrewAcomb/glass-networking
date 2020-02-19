@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "86",
+                        "endColumns": "42",
+                        "endOffsets": "124"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                },
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,3,6,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "189,56,234,107",
+                        "endColumns": "44,50,52,81",
+                        "endOffsets": "229,102,282,184"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "98,143,194,247",
+                        "endColumns": "44,50,52,81",
+                        "endOffsets": "138,189,242,324"
+                    }
+                },
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,127",
+                        "endLines": "3,10",
+                        "endColumns": "69,12",
+                        "endOffsets": "121,479"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "329,392",
+                        "endLines": "7,13",
+                        "endColumns": "62,12",
+                        "endOffsets": "387,744"
+                    }
+                }
+            ]
+        }
+    ]
+}

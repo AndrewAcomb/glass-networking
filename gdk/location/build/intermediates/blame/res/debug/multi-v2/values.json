@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "17,26,32",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "687,1071,1287",
+                        "endLines": "24,30,37",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1065,1281,1639"
+                    },
+                    "to": {
+                        "startLines": "6,14,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "232,615,830",
+                        "endLines": "13,18,24",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "610,825,1182"
+                    }
+                },
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,112,152",
+                        "endColumns": "56,39,37",
+                        "endOffsets": "107,147,185"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "97,154,194",
+                        "endColumns": "56,39,37",
+                        "endOffsets": "149,189,227"
+                    }
+                },
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endColumns": "41",
+                        "endOffsets": "724"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

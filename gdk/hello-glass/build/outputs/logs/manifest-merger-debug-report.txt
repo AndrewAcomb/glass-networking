@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:3:11-46
+	android:versionName
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:5:5-27:19
+	android:label
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:9:9-40
+activity#com.openquartz.helloglass.activities.LiveCardMenuActivity
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:10:9-12:47
+	android:theme
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:11:13-85
+service#com.openquartz.helloglass.services.LiveCardService
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:14:9-26:19
+	android:enabled
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:16:13-35
+	android:label
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:18:13-69
+	android:icon
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:17:13-51
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:15:13-78
+intent-filter#action:name:com.google.android.glass.action.VOICE_TRIGGER
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:19:13-21:29
+action#com.google.android.glass.action.VOICE_TRIGGER
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:20:17-87
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:20:25-85
+meta-data#com.google.android.glass.VoiceTrigger
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:23:13-25:56
+	android:resource
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:25:17-54
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml:24:17-69
+uses-sdk
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/hello-glass/src/main/AndroidManifest.xml

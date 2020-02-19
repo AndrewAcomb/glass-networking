@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "39,24,32,36,28,26,37,34,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1533,798,1219,1430,1005,907,1482,1315,1138",
+                        "endLines": "44,24,32,36,28,26,37,34,30",
+                        "endColumns": "19,51,39,51,50,37,49,48,49",
+                        "endOffsets": "1728,845,1254,1477,1051,940,1527,1359,1183"
+                    },
+                    "to": {
+                        "startLines": "2,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,369,421,461,513,564,602,652,701",
+                        "endLines": "7,10,11,12,13,14,15,16,17",
+                        "endColumns": "19,51,39,51,50,37,49,48,49",
+                        "endOffsets": "250,416,456,508,559,597,647,696,746"
+                    }
+                },
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "22,29,35",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "737,1095,1332",
+                        "endLines": "27,33,41",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1089,1322,1653"
+                    },
+                    "to": {
+                        "startLines": "18,24,29",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "751,1108,1340",
+                        "endLines": "23,28,35",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1103,1335,1661"
+                    }
+                },
+                {
+                    "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "255,313",
+                        "endColumns": "57,55",
+                        "endOffsets": "308,364"
+                    }
+                }
+            ]
+        }
+    ]
+}

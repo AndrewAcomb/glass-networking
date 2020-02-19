@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/menu_main_menu_no_memo.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/menu/main_menu_no_memo.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/xml_voice_trigger_memo.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/xml/voice_trigger_memo.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/menu_scroll_menu.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/menu/scroll_menu.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/layout_card_layout.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/layout/card_layout.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

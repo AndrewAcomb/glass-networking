@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gdk/camera-app/camera-app.iml" filepath="$PROJECT_DIR$/gdk/camera-app/camera-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk/camera-preview/camera-preview.iml" filepath="$PROJECT_DIR$/sdk/camera-preview/camera-preview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuXtomCamLibrary/cuXtomCamLibrary.iml" filepath="$PROJECT_DIR$/cuXtomCamLibrary/cuXtomCamLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdk/gdk.iml" filepath="$PROJECT_DIR$/gdk/gdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdk/glass-memo/glass-memo.iml" filepath="$PROJECT_DIR$/gdk/glass-memo/glass-memo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdk/hello-glass/hello-glass.iml" filepath="$PROJECT_DIR$/gdk/hello-glass/hello-glass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdk/location/location.iml" filepath="$PROJECT_DIR$/gdk/location/location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open-quartz.iml" filepath="$PROJECT_DIR$/open-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk/sdk.iml" filepath="$PROJECT_DIR$/sdk/sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdk/voice-example/voice-example.iml" filepath="$PROJECT_DIR$/gdk/voice-example/voice-example.iml" />
+    </modules>
+  </component>
+</project>

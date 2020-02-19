@@ -1,0 +1,23 @@
+methods  fields   package/class name
+18       1        android
+2        0        android.app
+8        0        android.hardware
+1        1        android.os
+2        0        android.speech
+2        0        android.speech.tts
+2        0        android.util
+3        0        android.view
+42       31       com
+3        1        com.google
+3        1        com.google.android
+3        1        com.google.android.glass
+3        1        com.google.android.glass.touchpad
+39       30       com.openquartz
+5        8        com.openquartz.camera
+34       22       com.openquartz.helloglass
+46       2        java
+19       1        java.io
+20       1        java.lang
+6        0        java.net
+1        0        java.util
+1        0        java.util.concurrent

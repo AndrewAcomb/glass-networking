@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/layout_card_layout.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/layout/card_layout.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/xml_voice_trigger_start.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/xml/voice_trigger_start.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/voice-example/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

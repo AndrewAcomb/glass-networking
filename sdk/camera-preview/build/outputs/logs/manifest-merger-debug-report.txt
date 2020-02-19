@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:3:11-48
+	android:versionName
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:7:5-59
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:7:19-57
+application
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:9:5-22:19
+	android:label
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:10:9-35
+activity#com.openquartz.glasspreview.activities.MainActivity
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:14:13-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+		ADDED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml
+		INJECTED from /Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/sdk/camera-preview/src/main/AndroidManifest.xml

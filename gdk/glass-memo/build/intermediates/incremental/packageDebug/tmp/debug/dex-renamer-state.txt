@@ -1,0 +1,4 @@
+#Tue Feb 18 21:07:50 CST 2020
+base.0=/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/glass-memo/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

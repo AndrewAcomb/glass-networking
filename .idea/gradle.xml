@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/cuXtomCamLibrary" />
+            <option value="$PROJECT_DIR$/gdk" />
+            <option value="$PROJECT_DIR$/gdk/camera-app" />
+            <option value="$PROJECT_DIR$/gdk/glass-memo" />
+            <option value="$PROJECT_DIR$/gdk/hello-glass" />
+            <option value="$PROJECT_DIR$/gdk/location" />
+            <option value="$PROJECT_DIR$/gdk/voice-example" />
+            <option value="$PROJECT_DIR$/sdk" />
+            <option value="$PROJECT_DIR$/sdk/camera-preview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

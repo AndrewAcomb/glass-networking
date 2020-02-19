@@ -1,0 +1,133 @@
+buildscript {
+    repositories {
+        google()
+        gradlePluginPortal()
+
+    }
+
+    dependencies {
+        classpath "com.android.tools.build:gradle:3.1.4"
+        classpath "com.novoda:gradle-android-command-plugin:2.0.1"
+        classpath "net.ltgt.gradle:gradle-errorprone-plugin:0.6"
+        classpath "com.getkeepsafe.dexcount:dexcount-gradle-plugin:0.8.3"
+        classpath "com.github.ben-manes:gradle-versions-plugin:0.20.0"
+        classpath "com.vanniktech:gradle-android-apk-size-plugin:0.4.0"
+
+
+    }
+}
+
+allprojects {
+    apply plugin: "com.github.ben-manes.versions"
+    apply plugin: "net.ltgt.errorprone"
+
+    repositories {
+        google()
+        gradlePluginPortal()
+    }
+
+    tasks.withType(JavaCompile) {
+        sourceCompatibility = JavaVersion.VERSION_1_7
+        targetCompatibility = JavaVersion.VERSION_1_7
+
+        configure(options) {
+            compilerArgs << "-Xlint:all"
+            compilerArgs << "-Xlint:-options"
+            encoding = "UTF-8"
+        }
+    }
+
+    tasks.withType(Test) {
+        testLogging {
+            exceptionFormat "full"
+        }
+    }
+}
+
+configure(project(":gdk").subprojects) {
+    apply plugin: "com.android.application"
+    apply plugin: "android-command"
+    apply plugin: "com.getkeepsafe.dexcount"
+    apply plugin: "com.vanniktech.android.apk.size"
+
+    android {
+        compileSdkVersion "Google Inc.:Glass Development Kit Preview:19"
+
+        defaultConfig {
+            minSdkVersion 19
+            targetSdkVersion 28
+            versionCode 1
+            versionName "1.0"
+        }
+
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+
+        signingConfigs {
+            debug {
+                storeFile rootProject.file("./.buildscript/debug.keystore")
+                storePassword "android"
+                keyAlias "androiddebugkey"
+                keyPassword "android"
+            }
+        }
+
+        buildTypes {
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile("proguard-android.txt")
+                proguardFile "proguard-rules.pro"
+            }
+        }
+
+        lintOptions {
+            abortOnError false
+        }
+    }
+}
+
+configure(project(":sdk").subprojects) {
+    apply plugin: "com.android.application"
+    apply plugin: "android-command"
+    apply plugin: "com.getkeepsafe.dexcount"
+    apply plugin: "com.vanniktech.android.apk.size"
+
+    android {
+        compileSdkVersion 28
+
+        defaultConfig {
+            minSdkVersion 19
+            targetSdkVersion 28
+            versionCode 1
+            versionName "1.0"
+        }
+
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+
+        signingConfigs {
+            debug {
+                storeFile rootProject.file("./.buildscript/debug.keystore")
+                storePassword "android"
+                keyAlias "androiddebugkey"
+                keyPassword "android"
+            }
+        }
+
+        buildTypes {
+            release {
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile("proguard-android.txt")
+                proguardFile "proguard-rules.pro"
+            }
+        }
+
+        lintOptions {
+            abortOnError false
+        }
+    }
+}

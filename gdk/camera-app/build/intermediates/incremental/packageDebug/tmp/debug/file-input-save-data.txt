@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Feb 19 02:12:30 CST 2020
+0.baseType=DIRECTORY
+0.base=/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/camera-app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

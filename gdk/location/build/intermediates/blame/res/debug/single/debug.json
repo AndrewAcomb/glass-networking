@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/build/intermediates/res/merged/debug/drawable_ic_colon.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/drawable/ic_colon.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/build/intermediates/res/merged/debug/xml_voice_trigger_start.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/xml/voice_trigger_start.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/build/intermediates/res/merged/debug/menu_stopwatch.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/menu/stopwatch.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/build/intermediates/res/merged/debug/layout_card_chronometer.xml.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/layout/card_chronometer.xml"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/build/intermediates/res/merged/debug/drawable_ic_stop.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/drawable/ic_stop.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/build/intermediates/res/merged/debug/drawable_ic_lap.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/drawable/ic_lap.png"
+    },
+    {
+        "merged": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/build/intermediates/res/merged/debug/drawable_ic_interpunc.png.flat",
+        "source": "/Users/andrewacomb/Desktop/School/Current_Classes/COMP_SCI_399/open-quartz/gdk/location/src/main/res/drawable/ic_interpunc.png"
+    }
+]
